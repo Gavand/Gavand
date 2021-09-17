@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Gavand
+- 👀 I’m interested in art, space, and technology
+- 🌱 I’m currently learning SwiftUI
+- 📫 How to reach me info@astrocomputing.org
